@@ -16,6 +16,10 @@ public class Time {  //캡슐화 실행
 //		PI = pi;
 //	}
 	
+	public Time(){
+		
+	}
+	
 	/** getter / setter : 외부에 직접적으로 노출시키지는 않지만 우회하여 간접적으로 접근 가능하도록 써준다.*/
 	
 	public int getHour() {
